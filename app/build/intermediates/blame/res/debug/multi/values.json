@@ -11,14 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 89,
-                        "endColumn": 57,
-                        "endOffset": 142
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 147,
-                        "endColumn": 55,
-                        "endOffset": 198
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 110,
-                        "endColumn": 52,
-                        "endOffset": 158
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -64,8 +43,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 222,
-                    "endColumn": 53,
-                    "endOffset": 271
+                    "endColumn": 41,
+                    "endOffset": 259
                 },
                 "from": {
                     "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml",
@@ -73,8 +52,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 53,
-                        "endOffset": 105
+                        "endColumn": 41,
+                        "endOffset": 93
                     }
                 }
             },
@@ -82,61 +61,38 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 276,
+                    "startOffset": 264,
                     "endColumn": 49,
-                    "endOffset": 321
+                    "endOffset": 309
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 163,
-                        "endColumn": 49,
-                        "endOffset": 208
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 326,
-                    "endLine": 13,
+                    "startOffset": 314,
+                    "endLine": 9,
                     "endColumn": 12,
-                    "endOffset": 612
+                    "endOffset": 392
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 186,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 472
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 617,
-                    "endLine": 16,
+                    "startOffset": 397,
+                    "endLine": 12,
                     "endColumn": 12,
-                    "endOffset": 772
+                    "endOffset": 464
                 },
                 "from": {
-                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 510,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 665
-                    }
+                    "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

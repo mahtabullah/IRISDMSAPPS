@@ -1,0 +1,10 @@
+#Thu Aug 17 15:41:37 BDT 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\phonegap-1.0.0_c99f8ea6003f4fec9413e5d4da91a9c1a4f520f8
+base.1=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_01cb174b27349f1708d2e3a8492c47a6807298f0
+base.0=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\cordova-2.9.0_1c53f3fde0d56340440574c3ca5043f6f3d566ce
+file.2=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\phonegap-1.0.0_c99f8ea6003f4fec9413e5d4da91a9c1a4f520f8\\classes.dex
+file.1=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_01cb174b27349f1708d2e3a8492c47a6807298f0\\classes.dex
+file.0=D\:\\ASAPPS\\IRISDms\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\cordova-2.9.0_1c53f3fde0d56340440574c3ca5043f6f3d566ce\\classes.dex
