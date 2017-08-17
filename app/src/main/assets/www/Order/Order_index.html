@@ -1,0 +1,190 @@
+<link href="../css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="../js/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+<script src="../js/url.js" type="text/javascript"></script>
+<script src="order.js" type="text/javascript"></script>
+<script>
+    $(document).ready(function () {
+        allorderlist();       
+        btn_hide();
+    });
+
+    function btn_hide() {
+        var roleid = localStorage.user_role_id;
+        if (roleid == 7 || roleid == 4) {
+            allorderdblist();
+        } else {
+          allorderdblist();
+             // $("#New_Order_btn").hide();
+
+        }
+    }
+    function allorderlist()
+    {
+        var roleid = localStorage.user_role_id;
+        var zone_id = localStorage.biz_zone_id;
+        $.ajax({
+            type: "POST",
+            url: baseurl + 'Order_index',
+            data: {biz_user_role_id: roleid, biz_zoneid: zone_id},
+            cache: true,
+            beforeSend: function () {
+                       
+			$.mobile.loading( "show", {  text: "Loading..",textVisible: true,theme: 'b'});
+                        },
+            error: function (e) {
+                $.mobile.loading( "hide" );
+               // alert(e);
+            },
+            success: function (data) {
+
+                var arr = JSON.parse(data);
+                var len = arr.length;
+                var i;
+                var lidata = "";
+                for (i = 0; i < len; i++) {
+                    lidata += '<li data-icon="false" ><a id="Orderdetails" dbname="' + arr[i].dbhouse_name + '" dbid="' + arr[i].db_id + '" orderid="' + arr[i].id + '" href="#">' + arr[i].dbhouse_name + '<span class="ui-li-count">' + arr[i].total_order + ' CS </span></a></li>';
+                }
+
+
+                $("#order_index_li").html(lidata);
+
+                $("#order_index_li").listview('refresh');
+$.mobile.loading( "hide" );
+            }
+        });
+
+    }
+    function allorderdblist()
+    {
+        var roleid = localStorage.user_role_id;
+        var zone_id = localStorage.biz_zone_id;
+        $.ajax({
+            type: "POST",
+            url: baseurl + 'allorderdblist',
+            data: {biz_user_role_id: roleid, biz_zoneid: zone_id},
+            cache: true,
+            error: function (e) {
+                $.mobile.loading( "hide" );
+               // alert(e);
+            },
+            beforeSend: function () {
+                       
+			$.mobile.loading( "show", {  text: "Loading..",textVisible: true,theme: 'b'});
+                        },
+            success: function (data) {
+                var lidata = "";
+                var arr = JSON.parse(data);
+                var len = arr.length;
+                if (data == -1) {
+                    alert('All DB House Order Complete');
+                } else {
+                    var i;
+                    for (i = 0; i < len; i++) {
+                        lidata += '<li data-icon="false" ><a id="NotOrderdb"  dbid="' + arr[i].id + '" href="#">' + arr[i].dbhouse_name + '</a></li>';
+                    }
+                    $("#notorderdb_li").html(lidata);
+                    $("#notorderdb_li").listview('refresh');
+                }
+                $.mobile.loading( "hide" );
+            }
+        });
+    }
+
+
+    $(document).on('click', '#Orderdetails', function (e) {
+        localStorage.orderid = "";
+        var orderid = $(this).attr("orderid");
+        localStorage.orderid = orderid;
+        
+        localStorage.dbId = "";
+        var dbId = $(this).attr("dbid");
+        localStorage.dbId = dbId;
+        
+        var dbname = $(this).attr("dbname");
+        localStorage.editorderdbname = dbname;
+        window.location.href = "Order_detailsbyid.html";
+
+    });
+    $(document).on('click', '#NotOrderdb', function (e) {
+
+        localStorage.notorderdbname = "";
+        var dbId = $(this).attr("dbid");
+        var dbname = $(this).html();
+        localStorage.notorderdbname = dbname;
+        window.location.href = 'Create_order.html?dbid=' + dbId;
+        // alert(dbId +dbname);
+    });
+
+    /**
+     localStorage.User_id=obj.User_id;
+     localStorage.user_role_id=obj.user_role_id;
+     localStorage.user_role_name=obj.user_role_name;
+     localStorage.emp_id=obj.emp_id;
+     localStorage.first_name=obj.first_name;
+     localStorage.biz_zone_id=obj.biz_zone_id;
+     localStorage.biz_zone_name=obj.biz_zone_name;
+     * 
+     */
+    $(document).on("click", "#backHome", function () {
+
+        window.location.href = "../Home/App_index.html";
+
+    });
+
+//    $(document).on('click', '#NotOrderDB', function (e) {
+//
+//
+//    });
+
+</script>
+
+</head>
+<body>
+
+<div id="order_index" data-role="page">
+    <div data-role="header">
+        <a href="#" id="backHome" data-icon="back">BACK</a>
+        <h1>Order List</h1>
+        <a href="#notorderdb" id="New_Order_btn" data-icon="plus">New Order</a>
+    </div>
+    <div data-role="main" class="ui-content">
+        <form class="ui-filterable">
+            <input id="order_index_liFilter" data-type="search">
+        </form>
+
+        <ul id="order_index_li" data-role="listview" data-filter="true"
+            data-input="#order_index_liFilter" data-inset="true">
+
+        </ul>
+
+    </div>
+    <div data-role="footer">
+        <h4>Footer</h4>
+    </div>
+</div>
+<div id="notorderdb" data-role="page">
+    <div data-role="header">
+        <!--<a href="../Home/App_index.html" data-icon="back">BACK</a>-->
+        <h1>Not Order DB List</h1>
+        <a href="#order_index" data-icon="back">BACK</a>
+    </div>
+    <div data-role="main" class="ui-content">
+        <form class="ui-filterable">
+            <input id="notorderdbFilter" data-type="search">
+        </form>
+        <ul id="notorderdb_li" data-role="listview" data-filter="true" data-inset="true"
+            data-input="#notorderdbFilter">
+        </ul>
+    </div>
+    <div data-role="footer">
+        <h4>Footer</h4>
+    </div>
+</div>
+
+
+</body>
+</html>
+
+

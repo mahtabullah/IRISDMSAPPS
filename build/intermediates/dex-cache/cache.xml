@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ASAPPS\IRISDms\app\libs\phonegap-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cca83b0ca76076e4eb8e86f88f836b5ddfabbd10">
+        <dex dex="D:\ASAPPS\IRISDms\app\build\intermediates\pre-dexed\debug\phonegap-1.0.0_c99f8ea6003f4fec9413e5d4da91a9c1a4f520f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASAPPS\IRISDms\app\libs\cordova-2.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1c00db30c9cdad3676aeefd78e37b716364b5259">
+        <dex dex="D:\ASAPPS\IRISDms\app\build\intermediates\pre-dexed\debug\cordova-2.9.0_1c53f3fde0d56340440574c3ca5043f6f3d566ce.jar" />
+    </item>
+
+</items>

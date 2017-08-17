@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Order System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+
+    <link href="../css/jquery.mobile.theme-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/jquery.mobile.structure-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/style.css" rel="stylesheet" type="text/css"/>
+    <script src="../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+    <script src="../js/url.js" type="text/javascript"></script>
+
+
+    <script>
+            $(document).ready(function () {
+allskutgt();
+            });
+            $(document).on("click", "#backHome", function () {
+
+                window.location.href = "../Home/App_index.html";
+
+            });
+           
+        
+function allskutgt(){
+     var roleid = localStorage.user_role_id;
+    var zone_id = localStorage.biz_zone_id;
+
+   var roleid = localStorage.user_role_id;
+    var zone_id = localStorage.biz_zone_id;
+
+    $.ajax({
+        type: "POST",
+        url: baseurl + 'index_tgt',
+        data: {biz_user_role_id: roleid, biz_zoneid: zone_id},
+        cache: true,
+        beforeSend: function () {
+            $.mobile.loading( "show", {  text: "Loading..",textVisible: true,theme: 'b'});
+        },
+        error: function (e) {
+            $.mobile.loading("hide");
+             alert("Try again");
+        },
+        success: function (data) {
+                      
+            var arr = JSON.parse(data);
+            var len = arr.length;
+            var i;
+            var lidata = "";
+            var Total=0;
+            for (i = 0; i < len; i++) {
+                Total=Total+parseInt(arr[i].Qty_CS );
+                lidata += ' <tr><td class="tg-yw4l">' + arr[i].sku_name + '</td><td class="tg-lqy6">' + arr[i].Qty_CS + ' CS</td></tr>';
+            }
+            lidata += ' <tr><td class="tg-yw4l">Total</td><td class="tg-lqy6">' + Total+ ' CS</td></tr>';
+            $("#skuWisetgtdata").html(lidata);
+            $.mobile.loading("hide");
+           
+        }
+    });
+
+            }
+
+
+
+    </script>
+</head>
+<body>
+<div data-role="page" id="home">
+    <div data-role="header" data-position="fixed">
+        <a href="#" id="backHome" data-icon="back">BACK</a>
+        <h1>Target</h1>
+    </div>
+
+    <div data-role="main" class="ui-content">
+
+        <div class="ui-grid-a">
+            <table class="tg">
+                <thead>
+                <tr>
+                    <th class="tg-baqh" colspan="2"><b>SKU Wise TGT</b></th>
+                </tr>
+                <tr>
+                    <th width="50%" class="tg-6k2t"><b>SKU Name</b></th>
+                    <th width="50%" class="tg-6k2t"><b>Total TGT</b></th>
+                </tr>
+                </thead>
+                <tbody id="skuWisetgtdata">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

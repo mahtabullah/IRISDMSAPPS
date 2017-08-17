@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="../css/jquery.mobile-1.4.5.min.css" type="text/css">
+
+    <script src="../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+    <script src="../js/url.js" type="text/javascript"></script>
+    <style>
+
+            table {
+                font-size: 12px;
+                border: 1px solid black;
+                width: 100%;
+            }
+            th, td {
+                border: 1px solid black;
+            }
+
+
+    </style>
+    <script>
+
+            var orderArray = [];
+
+            $(document).ready(function () {
+                SKUList();
+                // alert( "ready!" );
+                $("#data_array").html("NONE");
+            });
+            $(document).on('click', 'a', function (e) {
+                var id = this.id;
+                var SKU_name = $(this).html();
+                var price = $(this).attr("value");
+
+                $("#price").val(price);
+                $("#Data_value").html(SKU_name);
+get_total_qty();
+
+            });
+            $(document).on('click', '#btn_Order', function (e) {
+                if ($('#OrderCS').val().length !== 0) {
+                    var id = $("#SKU").val();
+                    var SKUid = id.slice(5);
+                    var SKUName = $("#Data_value").html();
+                    var OrderCS = $("#OrderCS").val();
+                    var total_value= $("#total_value").val();
+                    orderArray.push({Skuid: SKUid, SKU: SKUName, Orderqty: OrderCS,Ordervalue: total_value});
+
+                    ordrdertableidnfo();
+                    $("#OrderCS").val("");
+                    $("#popupLogin").popup("close");
+                    $('a#' + id).css('background', '#006400');
+                } else {
+                    alert('Input No Of Case');
+                }
+
+            });
+
+            function get_total_qty() {
+                ordertotal=0;
+                $("#total_value").val('0');
+               var ordertotal = parseFloat($("#price").val()) * parseFloat($("#OrderCS").val());
+              
+               $("#total_value").val(ordertotal);
+           
+        }
+            function ordrdertableidnfo() {
+                var total = 0;
+                var order = "";
+                for (i = 0; i < orderArray.length; i++) {
+                    total = total + parseFloat(orderArray[i].Orderqty);
+                    order += '<tr><td>' + orderArray[i].Skuid + '</td><td> ' + orderArray[i].SKU + '</td><td> '
+                            + orderArray[i].Orderqty + '</td><td> '
+                            + orderArray[i].Ordervalue + '</td><td> <a style="background-color: #ff4d4d" href="#" id="' + i + '" onclick="deleteorder_sku(this);" class="deleteorder_sku ui-btn ui-shadow ui-corner-all ui-icon-delete ui-btn-icon-notext">order' + orderArray[i].Skuid + '</a></td><tr>';
+                }
+                $("#ordertable").html(order);
+                $("#OrderQty").html(total);
+
+
+            }
+
+            function deleteorder_sku(element) {
+                var id = element.id;
+                var orderId = $(element).html();
+                $(element).parent('td').parent('tr').remove();
+                orderArray.splice(id, 1);
+                ordrdertableidnfo();
+                $('a#' + orderId).removeAttr('style');
+
+
+            }
+
+            function SKUList() {
+                $.ajax({
+                    type: "POST",
+                    url: baseurl + 'orderedsku_list',
+                    cache: true,
+                    error: function () {
+                        alert("error");
+                    },
+                    success: function (data) {
+                        $('#SKULIST').html(data);
+                        $('#SKULIST').listview('refresh');
+                    }
+                });
+            }
+
+    </script>
+</head>
+<body>
+<div data-role="page" id="pageone">
+    <div data-role="header">
+        <a href="../Home/App_index.html" data-icon="home">Home</a>
+
+        <h1>Order List</h1>
+        <a href="Order_index.html" data-icon="back">Back</a>
+
+    </div>
+    <div data-role="main" class="ui-content">
+        <table cellspacing="0" cellpadding="2" style="Font:">
+            <tr>
+                <th>
+                    Sku id
+                </th>
+                <th>
+                    Sku Name
+                </th>
+                <th>
+                    Order Qty
+                </th>
+                <th>
+                    Order Qty
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+            <tbody id="ordertable">
+
+            </tbody>
+            <tr>
+                <td colspan="2">
+                    Total Order CS
+                </td>
+                <td id="OrderQty">
+                    0.00
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+        <form class="ui-filterable">
+            <input id="myFilter" data-type="search">
+        </form>
+        <ul id="SKULIST" data-role="listview" data-filter="true" data-input="#myFilter"
+            data-inset="true">
+
+        </ul>
+    </div>
+    <div data-role="popup" id="popupLogin" data-theme="a" class="ui-corner-all">
+
+        <div style="padding:10px 20px;">
+
+            <h5 id="Data_value">Please Order case</h5>
+            <input type="hidden" name="SKU" id="SKU" value="" hidden data-theme="a">
+            <input type="number" onkeyup="get_total_qty()" name="OrderCS" id="OrderCS" value=""
+                   placeholder="No Of case" data-theme="a">
+            <input name="price" id="price" value="" hidden data-theme="a">
+            <input disabled="" name="total_value" id="total_value" value="" hidden data-theme="a">
+            <button id="btn_Order" type="submit">Order</button>
+        </div>
+
+    </div>
+</div>
+</html>
