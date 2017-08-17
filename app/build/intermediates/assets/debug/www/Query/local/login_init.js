@@ -3,7 +3,7 @@ function make_tables() {
 
     function onDeviceReady() {
         //	 navigator.notification.alert("PhoneGap is working!!");
-        var db = window.openDatabase("IRISDMS", "1.0", "IRISDMS", 2000000);
+        var db = window.openDatabase("IRISDMS", "1.0", "IRISDMS", 20000000);
         db.transaction(populateDB, errorCB, successCB);
         //   alert("-------------------------------------");
     }
@@ -18,7 +18,7 @@ function make_tables() {
 
     function successCB() {
         console.log("db creation success!");
-        alert("Database created");
+       alert("Database created");
     }
 
 }

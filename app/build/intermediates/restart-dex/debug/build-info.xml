@@ -6,7 +6,7 @@
     density="hdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1502967948950"
+    timestamp="1502969547124"
     token="3600443089707879929"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1502967948950"
+        timestamp="1502969547124"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\ASAPPS\IRISDms\app\build\outputs\apk\app-debug.apk"

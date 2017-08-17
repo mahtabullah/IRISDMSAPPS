@@ -2,489 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b16e08e-4551-4825-9431-8c1fc0236fa8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Copy of login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/ajax-loader1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/action-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/action-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/alert-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/alert-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-d-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/arrow-u-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/audio-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/audio-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/back-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/back-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/bars-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/bars-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/bullets-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/bullets-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/calendar-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/calendar-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/camera-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/camera-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-d-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-d-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-u-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/carat-u-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/check-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/check-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/clock-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/clock-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/cloud-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/cloud-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/comment-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/comment-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/delete-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/delete-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/edit-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/edit-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/eye-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/eye-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/forbidden-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/forbidden-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/forward-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/forward-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/gear-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/gear-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/grid-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/grid-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/heart-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/heart-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/home-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/home-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/info-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/info-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/location-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/location-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/lock-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/lock-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/mail-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/mail-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/minus-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/minus-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/navigation-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/navigation-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/phone-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/phone-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/plus-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/plus-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/power-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/power-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/recycle-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/recycle-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/refresh-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/refresh-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/search-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/search-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/shop-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/shop-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/star-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/star-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/tag-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/tag-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/user-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/user-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/video-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-png/video-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/action-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/action-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/alert-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/alert-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-d-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/arrow-u-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/audio-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/audio-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/back-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/back-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/bars-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/bars-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/bullets-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/bullets-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/calendar-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/calendar-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/camera-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/camera-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-d-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-d-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-u-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/carat-u-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/check-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/check-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/clock-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/clock-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/cloud-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/cloud-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/comment-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/comment-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/delete-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/delete-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/edit-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/edit-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/eye-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/eye-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/forbidden-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/forbidden-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/forward-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/forward-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/gear-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/gear-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/grid-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/grid-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/heart-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/heart-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/home-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/home-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/info-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/info-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/location-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/location-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/lock-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/lock-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/mail-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/mail-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/minus-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/minus-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/navigation-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/navigation-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/phone-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/phone-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/plus-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/plus-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/power-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/power-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/recycle-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/recycle-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/refresh-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/refresh-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/search-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/search-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/shop-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/shop-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/star-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/star-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/tag-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/tag-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/user-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/user-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/video-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/images/icons-svg/video-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.external-png-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.icons-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.inline-png-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.inline-svg-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.structure-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/jquery.mobile.theme-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/DBhouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/Deshboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/Logout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/PC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/Pepsi_logo_2008.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/Target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/account.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/order.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/img_2/skulist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/canvasjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/cordova-2.9.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/jquery.canvasjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/jquery.mobile-1.4.5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/js/url.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/alert-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-u-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/audio-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-d-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-d-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/tag-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/user-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/user-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/video-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/video-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.external-png-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.icons-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.inline-png-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.inline-svg-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.theme-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/DBhouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/Deshboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/Logout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/PC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/Pepsi_logo_2008.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/Target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/account.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/order.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/img_2/skulist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/canvasjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/cordova-2.9.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/jquery.canvasjs.min.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/main_header.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/App_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/App_index_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/Copy of App_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/Home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/canvasjs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Home/homeindex.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/javatechig/dgms/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/javatechig/dgms/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/0JcG+uYFJrRnlZatgrkgTpGZKPM=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/0JcG+uYFJrRnlZatgrkgTpGZKPM=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/javatechig/dgms/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/javatechig/dgms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Order/newhtml.html" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Order/newhtml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Query/local/login_init.js" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/Query/local/login_init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/login.html" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/resources/login_header.html" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/www/resources/login_header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/www/Home/Home.html" afterPath="$PROJECT_DIR$/app/src/main/assets/www/Home/Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/www/Query/local/login_init.js" afterPath="$PROJECT_DIR$/app/src/main/assets/www/Query/local/login_init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/www/login.html" afterPath="$PROJECT_DIR$/app/src/main/assets/www/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/images/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/ajax-loader1.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/images/ajax-loader1.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/action-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/action-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/action-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/action-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/alert-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/alert-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/alert-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/alert-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-l-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-l-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-r-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-r-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-d-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-d-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-l-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-l-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-r-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-r-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-l-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-l-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-r-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-r-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/arrow-u-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/arrow-u-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/audio-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/audio-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/audio-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/audio-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/back-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/back-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/back-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/back-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/bars-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/bars-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/bars-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/bars-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/bullets-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/bullets-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/bullets-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/bullets-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/calendar-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/calendar-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/calendar-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/calendar-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/camera-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/camera-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/camera-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/camera-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-d-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-d-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-d-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-d-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-l-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-l-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-r-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-r-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-u-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-u-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/carat-u-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/carat-u-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/check-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/check-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/check-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/check-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/clock-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/clock-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/clock-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/clock-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/cloud-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/cloud-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/cloud-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/cloud-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/comment-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/comment-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/comment-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/comment-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/delete-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/delete-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/delete-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/delete-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/edit-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/edit-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/edit-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/edit-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/eye-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/eye-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/eye-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/eye-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/forbidden-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/forbidden-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/forbidden-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/forbidden-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/forward-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/forward-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/forward-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/forward-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/gear-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/gear-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/gear-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/gear-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/grid-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/grid-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/grid-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/grid-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/heart-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/heart-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/heart-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/heart-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/home-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/home-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/home-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/home-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/info-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/info-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/info-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/info-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/location-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/location-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/location-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/location-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/lock-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/lock-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/lock-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/lock-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/mail-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/mail-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/mail-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/mail-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/minus-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/minus-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/minus-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/minus-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/navigation-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/navigation-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/navigation-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/navigation-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/phone-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/phone-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/phone-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/phone-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/plus-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/plus-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/plus-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/plus-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/power-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/power-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/power-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/power-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/recycle-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/recycle-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/recycle-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/recycle-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/refresh-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/refresh-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/refresh-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/refresh-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/search-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/search-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/search-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/search-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/shop-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/shop-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/shop-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/shop-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/star-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/star-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/star-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/star-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/tag-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/tag-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/tag-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/tag-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/user-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/user-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/user-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/user-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/video-black.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/video-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-png/video-white.png" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-png/video-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/action-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/action-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/action-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/action-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/alert-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/alert-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-l-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-l-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-l-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-r-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-r-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-r-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-r-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-d-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-d-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/arrow-l-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/arrow-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/audio-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/audio-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/back-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/back-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/back-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/back-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/bars-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/bars-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/bars-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/bars-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/bullets-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/bullets-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/bullets-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/bullets-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/calendar-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/calendar-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/calendar-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/calendar-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/camera-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/camera-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/camera-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/camera-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-u-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/carat-u-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/carat-u-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/carat-u-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/check-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/check-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/check-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/check-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/clock-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/clock-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/clock-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/clock-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/cloud-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/cloud-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/cloud-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/cloud-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/comment-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/comment-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/comment-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/comment-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/delete-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/delete-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/delete-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/delete-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/edit-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/edit-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/edit-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/edit-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/eye-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/eye-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/eye-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/eye-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/forbidden-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/forbidden-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/forbidden-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/forbidden-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/forward-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/forward-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/forward-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/forward-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/gear-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/gear-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/gear-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/gear-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/grid-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/grid-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/grid-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/grid-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/heart-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/heart-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/heart-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/heart-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/home-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/home-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/home-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/home-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/info-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/info-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/info-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/info-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/location-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/location-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/location-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/location-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/lock-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/lock-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/lock-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/lock-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/mail-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/mail-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/mail-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/mail-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/minus-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/minus-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/minus-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/minus-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/navigation-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/navigation-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/navigation-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/navigation-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/phone-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/phone-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/phone-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/phone-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/plus-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/plus-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/plus-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/plus-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/power-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/power-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/power-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/power-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/recycle-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/recycle-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/recycle-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/recycle-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/refresh-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/refresh-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/refresh-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/refresh-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/search-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/search-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/search-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/search-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/shop-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/shop-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/shop-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/shop-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/star-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/star-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/star-white.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/star-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/images/icons-svg/tag-black.svg" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/icons-svg/tag-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/jquery.mobile-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/jquery.mobile.structure-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/jquery.mobile.structure-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/css/style.css" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/jquery.mobile-1.4.5.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/assets/www/js/url.js" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/www/resources/login_header.html" afterPath="$PROJECT_DIR$/app/src/main/assets/www/resources/login_header.html" />
     </list>
     <ignored path="TBLOrder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2208,6 +1753,8 @@
         <option value="$PROJECT_DIR$/app/src/main/assets/www/js/url.js" />
         <option value="$PROJECT_DIR$/app/src/main/assets/www/login.html" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/www/resources/main_header.html" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/www/Home/Home.html" />
       </list>
     </option>
   </component>
@@ -2351,6 +1898,74 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IRISDms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IRISDms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IRISDms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IRISDms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -2368,6 +1983,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ASAPPS\IRISDms\app\src\main\assets\www\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ASAPPS\IRISDms\app\src\main\assets\www\resources\images" />
       <recent name="D:\ASAPPS\IRISDms\app\src\main\assets\www\resources" />
@@ -2700,7 +2318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2876,18 +2494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding>
-            <element signature="e#2969#2992#0" expanded="true" />
-            <element signature="e#3037#3071#0" expanded="true" />
-            <element signature="e#3136#3182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -2900,6 +2506,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/Order/Create_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="202" column="45" selection-start-line="202" selection-start-column="3" selection-end-line="202" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#3339#3362#0" expanded="true" />
+            <element signature="e#3407#3441#0" expanded="true" />
+            <element signature="e#3506#3552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/resources/jquery-1.11.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/Home/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/www/resources/main_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>

@@ -13,7 +13,13 @@
             $('head').load('resources/login_header.html');
 
             function onDeviceReady() {
+                document.addEventListener("backbutton", onBackKeyDown, true);
                 make_tables();
+            }
+            function onBackKeyDown(e) {
+                e.preventDefault();
+                console.log('back button');
+                //alert('back');
             }
 
             $(document).ready(function ()
@@ -62,8 +68,10 @@
                         } else {
                             $("#login").html('Login');
                             obj = JSON.parse(data);
-                            localStorage.name = obj.Name;
-                            alert(" Welcome " + localStorage.name);
+                            localStorage.PSR_id = obj.PSR_id;
+                            localStorage.PSR_name = obj.Name;
+                            localStorage.db_id = obj.db_id;
+                            alert(" Welcome " + localStorage.PSR_name);
                             window.location.href = "Home/Home.html";
                         }
                     }
