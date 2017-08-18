@@ -43,8 +43,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 222,
-                    "endColumn": 41,
-                    "endOffset": 259
+                    "endColumn": 45,
+                    "endOffset": 263
                 },
                 "from": {
                     "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml",
@@ -52,8 +52,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 41,
-                        "endOffset": 93
+                        "endColumn": 45,
+                        "endOffset": 97
                     }
                 }
             },
@@ -61,9 +61,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 264,
+                    "startOffset": 268,
                     "endColumn": 49,
-                    "endOffset": 309
+                    "endOffset": 313
                 },
                 "from": {
                     "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\strings.xml"
@@ -73,10 +73,10 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 314,
+                    "startOffset": 318,
                     "endLine": 9,
                     "endColumn": 12,
-                    "endOffset": 392
+                    "endOffset": 396
                 },
                 "from": {
                     "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml"
@@ -86,10 +86,10 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 397,
+                    "startOffset": 401,
                     "endLine": 12,
                     "endColumn": 12,
-                    "endOffset": 464
+                    "endOffset": 468
                 },
                 "from": {
                     "file": "D:\\ASAPPS\\IRISDms\\app\\src\\main\\res\\values\\styles.xml"

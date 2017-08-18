@@ -2,7 +2,7 @@
 manifest
 ADDED from D:\ASAPPS\IRISDms\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from D:\ASAPPS\IRISDms\app\src\main\AndroidManifest.xml:3:5-34
+		ADDED from D:\ASAPPS\IRISDms\app\src\main\AndroidManifest.xml:3:5-27
 		INJECTED from D:\ASAPPS\IRISDms\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ASAPPS\IRISDms\app\src\main\AndroidManifest.xml
 	android:versionName
