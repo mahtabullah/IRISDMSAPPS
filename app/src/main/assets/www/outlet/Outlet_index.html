@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Order System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../resources/jquery-1.11.3.min.js" type="text/javascript"></script>
+
+
+    <script>
+            $('head').load('../resources/main_header.html');
+        </script>
+</head>
+<body>
+
+<div id="order_index" data-role="page">
+    <div data-role="header">
+        <a href="#" id="backHome" data-icon="back">BACK</a>
+        <h1>Order List</h1>
+        <a href="#notorderdb" id="New_Order_btn" data-icon="plus">New Order</a>
+    </div>
+    <div data-role="main" class="ui-content">
+        <form class="ui-filterable">
+            <input id="outlet_index_Filter" data-type="search">
+        </form>
+
+        <ul id="outlet_index_li" data-role="listview" data-filter="true"
+            data-input="#order_index_liFilter" data-inset="true">
+
+        </ul>
+
+    </div>
+    <div data-role="footer">
+        <h4>Footer</h4>
+    </div>
+</div>
+
+</body>
+</html>
+
+
