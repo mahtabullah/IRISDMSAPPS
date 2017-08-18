@@ -5,10 +5,10 @@
         <group>
             <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/resources/login_header.html</file>
             <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/login.html</file>
+            <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/Query/server/sync_outlet.js</file>
+            <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/Query/server/sync_all.js</file>
             <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/resources/url.js</file>
             <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/Query/local/login_init.js</file>
-            <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/Home/Home.html</file>
-            <file>file:/D:/ASAPPS/IRISDms/app/src/main/assets/www/resources/main_header.html</file>
         </group>
     </open-files>
 </project-private>

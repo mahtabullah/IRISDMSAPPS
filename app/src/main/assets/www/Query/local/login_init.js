@@ -18,7 +18,7 @@ function make_tables() {
 
     function successCB() {
         console.log("db creation success!");
-       alert("Database created");
+     //  alert("Database created");
     }
 
 }

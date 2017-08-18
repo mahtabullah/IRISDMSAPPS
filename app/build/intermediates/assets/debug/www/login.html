@@ -69,7 +69,8 @@
                             localStorage.PSR_name = obj.Name;
                             localStorage.db_id = obj.db_id;
                             alert(" Welcome " + localStorage.PSR_name);
-                            window.location.href = "Home/Home.html";
+                            sync_all_down();
+                         // window.location.href = "Home/Home.html";
                         }
                     }
                 });
